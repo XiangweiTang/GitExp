@@ -1,2 +1,3 @@
 A updated.
 B updated.
+B updated 2nd time.
